@@ -67,7 +67,7 @@ const Hello2i = () => (
 ```
 
 ### Results in web page showing:
-![[Pasted image 20221117153001.png]]
+![[images/Pasted image 20221117153001.png]]
 With RUN button which on every click adds new Hello 2i text and clear button which clears all Hello 2i message. 
 
 # Why use it?
